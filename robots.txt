@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://wwxx.github.io/sitemap.xml
