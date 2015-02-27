@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://wwxx.github.io
+title: 一个人的旅途
+subtitle: 谨以此记录每一步朝圣的脚印
+author: wayfarer
 simple_search: https://www.google.com/search
 description:
 
